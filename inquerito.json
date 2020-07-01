@@ -1,0 +1,219 @@
+[
+	{
+		"question_number":1,
+		"question_text":"Sadness",
+		"answers":[
+			{"answer_number":"0","answer_text":"I do not feel sad."},
+			{"answer_number":"1","answer_text":"I feel sad much of the time."},
+			{"answer_number":"2","answer_text":"I am sad all the time."},
+			{"answer_number":"3","answer_text":"I am so sad or unhappy that I can't stand it."}
+		]
+	},
+	{
+		"question_number":2,
+		"question_text":"Pessimism",
+		"answers":[
+			{"answer_number":"0","answer_text":"I am not discouraged about my future."},
+			{"answer_number":"1","answer_text":"I feel more discouraged about my future than I used to be."},
+			{"answer_number":"2","answer_text":"I do not expect things to work out for me."},
+			{"answer_number":"3","answer_text":"I feel my future is hopeless and will only get worse."}
+		]
+	},
+	{
+		"question_number":3,
+		"question_text":"Past Failure",
+		"answers":[
+			{"answer_number":"0","answer_text":"I do not feel like a failure."},
+			{"answer_number":"1","answer_text":"I have failed more than I should have."},
+			{"answer_number":"2","answer_text":"As I look back, I see a lot of failures."},
+			{"answer_number":"3","answer_text":"I feel I am a total failure as a person."}
+		]
+	},
+	{
+		"question_number":4,
+		"question_text":"Loss of Pleasure",
+		"answers":[
+			{"answer_number":"0","answer_text":"I get as much pleasure as I ever did from the things I enjoy."},
+			{"answer_number":"1","answer_text":"I don't enjoy things as much as I used to."},
+			{"answer_number":"2","answer_text":"I get very little pleasure from the things I used to enjoy."},
+			{"answer_number":"3","answer_text":"I can't get any pleasure from the things I used to enjoy."}
+		]
+	},
+	{
+		"question_number":5,
+		"question_text":"Guilty Feelings",
+		"answers":[
+			{"answer_number":"0","answer_text":"I don't feel particularly guilty."},
+			{"answer_number":"1","answer_text":"I feel guilty over many things I have done or should have done."},
+			{"answer_number":"2","answer_text":"I feel quite guilty most of the time."},
+			{"answer_number":"3","answer_text":"I feel guilty all of the time."}
+		]
+	},
+	{
+		"question_number":6,
+		"question_text":"Punishment Feelings",
+		"answers":[
+			{"answer_number":"0","answer_text":"I don't feel I am being punished."},
+			{"answer_number":"1","answer_text":"I feel I may be punished."},
+			{"answer_number":"2","answer_text":"I expect to be punished."},
+			{"answer_number":"3","answer_text":"I feel I am being punished."}
+		]
+	},
+	{
+		"question_number":7,
+		"question_text":"Self-Dislike",
+		"answers":[
+			{"answer_number":"0","answer_text":"I feel the same about myself as ever."},
+			{"answer_number":"1","answer_text":"I have lost confidence in myself."},
+			{"answer_number":"2","answer_text":"I am disappointed in myself."},
+			{"answer_number":"3","answer_text":"I dislike myself."}
+		]
+	},
+	{
+		"question_number":8,
+		"question_text":"Self-Criticalness",
+		"answers":[
+			{"answer_number":"0","answer_text":"I don't criticize or blame myself more than usual."},
+			{"answer_number":"1","answer_text":"I am more critical of myself than I used to be."},
+			{"answer_number":"2","answer_text":"I criticize myself for all of my faults."},
+			{"answer_number":"3","answer_text":"I blame myself for everything bad that happens"}
+		]
+	},
+	{
+		"question_number":9,
+		"question_text":"Suicidal Thoughts or Wishes",
+		"answers":[
+			{"answer_number":"0","answer_text":"I don't have any thoughts of killing myself."},
+			{"answer_number":"1","answer_text":"I have thoughts of killing myself, but I would not carry them out."},
+			{"answer_number":"2","answer_text":"I would like to kill myself."},
+			{"answer_number":"3","answer_text":"I would kill myself if I had the chance."}
+		]
+	},
+	{
+		"question_number":10,
+		"question_text":"Crying",
+		"answers":[
+			{"answer_number":"0","answer_text":"I don't cry anymore than I used to."},
+			{"answer_number":"1","answer_text":"I cry more than I used to."},
+			{"answer_number":"2","answer_text":"I cry over every little thing."},
+			{"answer_number":"3","answer_text":"I feel like crying, but I can't."}
+		]
+	},
+	{
+		"question_number":11,
+		"question_text":"Agitation",
+		"answers":[
+			{"answer_number":"0","answer_text":"I am no more restless or wound up than usual."},
+			{"answer_number":"1","answer_text":"I feel more restless or wound up than usual."},
+			{"answer_number":"2","answer_text":"I am so restless or agitated that it's hard to stay still."},
+			{"answer_number":"3","answer_text":"I am so restless or agitated that I have to keep moving or doing something."}
+		]
+	},
+	{
+		"question_number":12,
+		"question_text":"Loss of Interest",
+		"answers":[
+			{"answer_number":"0","answer_text":"I have not lost interest in other people or activities."},
+			{"answer_number":"1","answer_text":"I am less interested in other people or things than before."},
+			{"answer_number":"2","answer_text":"I have lost most of my interest in other people or things."},
+			{"answer_number":"3","answer_text":"It's hard to get interested in anything."}
+		]
+	},
+	{
+		"question_number":13,
+		"question_text":"Indecisiveness",
+		"answers":[
+			{"answer_number":"0","answer_text":"I make decisions about as well as ever."},
+			{"answer_number":"1","answer_text":"I find it more difficult to make decisions than usual."},
+			{"answer_number":"2","answer_text":"I have much greater difficulty in making decisions than I used to."},
+			{"answer_number":"3","answer_text":"I have trouble making any decisions."}
+		]
+	},
+	{
+		"question_number":14,
+		"question_text":"Worthlessness",
+		"answers":[
+			{"answer_number":"0","answer_text":"I do not feel I am worthless."},
+			{"answer_number":"1","answer_text":"I don't consider myself as worthwhile and useful as I used to."},
+			{"answer_number":"2","answer_text":"I feel more worthless as compared to other people."},
+			{"answer_number":"3","answer_text":"I feel utterly worthless."}
+		]
+	},
+	{
+		"question_number":15,
+		"question_text":"Loss of Energy",
+		"answers":[
+			{"answer_number":"0","answer_text":"I have as much energy as ever."},
+			{"answer_number":"1","answer_text":"I have less energy than I used to have."},
+			{"answer_number":"2","answer_text":"I don't have enough energy to do very much."},
+			{"answer_number":"3","answer_text":"I don't have enough energy to do anything."}
+		]
+	},
+	{
+		"question_number":16,
+		"question_text":"Changes in Sleeping Pattern",
+		"answers":[
+			{"answer_number":"0","answer_text":"I have not experienced any change in my sleeping pattern."},
+			{"answer_number":"1a","answer_text":"I sleep somewhat more than usual."},
+			{"answer_number":"1b","answer_text":"I sleep somewhat less than usual."},
+			{"answer_number":"2a","answer_text":"I sleep a lot more than usual."},
+			{"answer_number":"2b","answer_text":"I sleep a Iot less than usual."},
+			{"answer_number":"3a","answer_text":"I sleep most of the day."},
+			{"answer_number":"3b","answer_text":"I wake up 1-2 hours early and can't get back to sleep."}
+		]
+	},
+		{
+		"question_number":17,
+		"question_text":"Irritability",
+		"answers":[
+			{"answer_number":"0","answer_text":"I am no more irritable than usual."},
+			{"answer_number":"1","answer_text":"I am more irritable than usual."},
+			{"answer_number":"2","answer_text":"I am much more irritable than usual."},
+			{"answer_number":"3","answer_text":"I am irritable all the time."}
+		]
+	},
+	{
+		"question_number":18,
+		"question_text":"Changes in Appetite",
+		"answers":[
+			{"answer_number":"0","answer_text":"I have not experienced any change in my appetite."},
+			{"answer_number":"1a","answer_text":"My appetite is somewhat less than usual."},
+			{"answer_number":"1b","answer_text":"My appetite is somewhat greater than usual."},
+			{"answer_number":"2a","answer_text":"My appetite is much less than before."},
+			{"answer_number":"2b","answer_text":"My appetite is much greater than usual."},
+			{"answer_number":"3a","answer_text":"I have no appetite at all."},
+			{"answer_number":"3b","answer_text":"I crave food all the time."}
+		]
+	},
+	{
+		"question_number":19,
+		"question_text":"Concentration Difficulty",
+		"answers":[
+			{"answer_number":"0","answer_text":"I can concentrate as well as ever."},
+			{"answer_number":"1","answer_text":"I can't concentrate as well as usual."},
+			{"answer_number":"2","answer_text":"It's hard to keep my mind on anything for very long."},
+			{"answer_number":"3","answer_text":"I find I can't concentrate on anything."}
+		]
+	},
+	{
+		"question_number":20,
+		"question_text":"Tiredness or Fatigue",
+		"answers":[
+			{"answer_number":"0","answer_text":"I am no more tired or fatigued than usual."},
+			{"answer_number":"1","answer_text":"I get more tired or fatigued more easily than usual."},
+			{"answer_number":"2","answer_text":"I am too tired or fatigued to do a lot of the things I used to do."},
+			{"answer_number":"3","answer_text":"I am too tired or fatigued to do most of the things I used to do."}
+		]
+	},
+	{
+		"question_number":21,
+		"question_text":"Loss of Interest in Sex",
+		"answers":[
+			{"answer_number":"0","answer_text":"I have not noticed any recent change in my interest in sex."},
+			{"answer_number":"1","answer_text":"I am less interested in sex than I used to be."},
+			{"answer_number":"2","answer_text":"I am much less interested in sex now."},
+			{"answer_number":"3","answer_text":"I have lost interest in sex completely."}
+		]
+	}
+
+]
