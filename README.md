@@ -3,6 +3,8 @@
 
 **Autor:** Manuel Ramón Varela López
 
+**Titor:** David E. Losada
+
 ### Datos
 - **Composición comparación corpus**: Título da pregunta e resposta máis alta.
 - **Medida**: Media de similitudes.
